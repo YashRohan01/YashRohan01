@@ -1,4 +1,6 @@
-# Hi, I'm Yash Rohan 👋  
+ *“Build-Break-Rebuild”*
+
+# Hi, I'm Yash Rohan  
 Researcher | ML & DL Enthusiast | Developer |  Agentic AI Pipelines   
 
 I'm a Associate Data Scientist and I love building **AI-driven systems & solutions**.
@@ -24,6 +26,6 @@ Currently exploring the frontier of **Machine Learning, Deep Learning, Agentic A
 📊 Data & ML Tools:
 `NumPy` · `Pandas` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `Keras` · `Matplotlib`
 
-🎯 Motto: *“Building, breaking, and rebuilding”*
+
 
 📫 Reach me: [LinkedIn](www.linkedin.com/in/yash-rohan/) | [Email](yashrohan001@gmail.com)
